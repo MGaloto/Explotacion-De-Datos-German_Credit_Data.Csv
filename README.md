@@ -1,4 +1,4 @@
-# exploredataanalytics
+# explotacion de datos
 Exploración de variables cualitativas y cuantitativas de un dataset
 
 La finalidad de este trabajo en R es iniciar el analisi  exploratorio de datos, se utiliza una planilla excel csv con informacion de prestamos bancarios de Alemania.
